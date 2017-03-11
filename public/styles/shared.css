@@ -1,0 +1,176 @@
+/* Main containers for each block   */
+.container{
+  background-color: #545454;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.container-news{
+  background-color: #545454;
+  padding-top: 70px;
+  padding-bottom:70px;
+
+}
+.container-recent{
+  background-color: #a53030;
+  padding-top:70px;
+  padding-bottom:70px;
+}
+.container-last{
+  background-color: #191919;
+  padding-top:60px;
+  padding-bottom:60px;
+}
+
+/* part of navbar styling*/
+.container-deso {
+  background-color: black;
+  color: white;
+  height: 70px;
+  padding: 0 15px;
+}
+
+.navbar-deso {
+  float: right;
+  font-family: " Garamond, serif", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  position: relative;
+}
+.deso-list {
+  display: inline-block;
+
+}
+.deso-logo{
+  padding-top: 10px;
+}
+
+.deso-tag {
+  padding: 10px 15px;
+  padding-left: 10px;
+  position: relative;
+  display: block;
+  color: white; }
+
+/* container for the footer */
+#footer {
+  color: #777777;
+}
+.container-foot {
+  background-color: black;
+  padding: 10px;
+}
+.container-social{
+  display: inline-block;
+  width: 48%;
+  text-align: right;
+}
+.container-copy{
+  display: inline-block;
+  width: 48%;
+}
+
+/* part of first container */
+.container-block{
+  background-color: #2A2A2A;
+  color: white;
+  width: 90%;
+  height: 214px;
+  border-radius: 4em;
+  margin: 0 auto;
+
+}
+.news{
+
+  padding: 20px;
+  font-family: 'Raleway', sans-serif;
+  height: 66px;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+
+
+/* used for container-news*/
+.header{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  border-bottom: white solid;
+}
+.link-style{
+  color: red;
+}
+
+/* part of container last */
+.container-insta{
+  width: 48%;
+  display: inline-block;
+  text-align: right;
+
+}
+.container-tweet{
+  width: 48%;
+  display: inline-block
+}
+
+.tweet-style{
+  color: white;
+  margin-top: 20px;
+  margin-bottom:30px;
+}
+
+.adjustment{
+  padding-left:0px;
+}
+
+.lists-deso{
+  display: inline-block;
+  text-align: right;
+  width: 24%;
+  padding-bottom: 10px;
+}
+
+
+
+.img-style{
+  width:100%;
+}
+
+.small-style{
+  color: #d0d0d0;
+  text-align: left;
+  padding-left: 10px;
+  font-size: 20px;
+  font-weight: 300;
+  font-family: Raleway , sans-serf;
+
+}
+
+
+/*  Misc styles used throughout front page*/
+.gallery-image img {
+  display: block;
+  max-width: 100%;
+  height: auto; }
+
+body{
+  margin: 0;
+}
+
+
+.para-style{
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
